@@ -5,7 +5,7 @@ Newbie web dev girl, in love with Front End but pretty good on Full Stack practi
 - 🐎 I’m presently working on a PWA named Caval Cloud, with React.js and Node.js
 - 🌱 I’m currently learning CSS Houdini and Angular.js
 - 📱 & 🖥️ Mobile and Web developpement 
--
+
 - 📫 Contact me : contact@johanna-cas.fr
 
 <!--
