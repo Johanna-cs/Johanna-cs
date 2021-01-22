@@ -4,8 +4,9 @@ Newbie web dev girl, in love with Front End but pretty good on Full Stack practi
 - 👯 I’m looking to collaborate on great projects or in a very cool start up !
 - 🐎 I’m presently working on a PWA named Caval Cloud, with React.js and Node.js
 - 🌱 I’m currently learning WordPress Theme development
-- :sunflower: Growing with an everyday coding practice.
-- 📱 & 🖥️  Mobile and Web development 
+- :sunflower: Growing with an everyday coding training.
+- 📱 & 🖥️  Mobile and Web development
+- :art: CSS enthousiast and Web Design lover
 
 - 📫 Contact me : contact@johanna-cas.fr
 
