@@ -2,9 +2,9 @@
 Newbie web dev girl, in love with Front End but pretty good on Full Stack practice.
 
 - 👯 I’m looking to collaborate on great projects or in a very cool start up !
-- 🐎 I've recently working on a PWA named [Caval Cloud](https://sites.google.com/cavalcloud.com/cavalcloud/accueil), with React.js and Node.js
-- 💬 Javascript speaking !
+- 💬 Javascript (React&Node) speaking !
 - :sunflower: Growing with an everyday coding training.
+- 🐎 I've recently working on a PWA named [Caval Cloud](https://sites.google.com/cavalcloud.com/cavalcloud/accueil), with React.js and Node.js
 - :books: My book-partner reading is [Tout Javascript 2ed.](https://livre.fnac.com/a13991951/Olivier-Hondermarck-Tout-JavaScript) and its [website guide](https://www.toutjavascript.com/main/index.php3).
 - :art: CSS enthousiast and Web Design lover
 
