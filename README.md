@@ -1,7 +1,7 @@
 ### Hello there 🤙
 Newbie web dev girl, in love with Front End but pretty good on Full Stack practice.
 
-- ⚡ I'm a coworker in Alise DataHertz company, I'm working on full stack project with Agular & C# (.Net)!
+- ⚡ I'm a coworker in Alise DataHertz company, I'm working on full stack project with Agular & C# (.Net).
 - 💬 Javascript & (my)SQL speaking !
 - :sunflower: Growing with an everyday coding training.
 - 🐎 I've recently work on a PWA named [Caval Cloud](https://sites.google.com/cavalcloud.com/cavalcloud/accueil), with React.js and Node.js
