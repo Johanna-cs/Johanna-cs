@@ -8,7 +8,7 @@ Newbie web dev girl, in love with Front End but pretty good on Full Stack practi
 - :books: My book-partner reading is [Tout Javascript 2ed.](https://livre.fnac.com/a13991951/Olivier-Hondermarck-Tout-JavaScript) and its [website guide](https://www.toutjavascript.com/main/index.php3).
 - :art: CSS enthousiast and Web Design lover
 
-- 📫 Contact me : contact@johanna-cas.fr
+- 📫 Contact me : johannacas.pro@gmail.com
 
 <!--
 **Johanna-cs/Johanna-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
